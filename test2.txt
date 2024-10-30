@@ -1,1 +1,2 @@
-This is the newly craeted file
+This is a Newly created file, Ive made some changes
+
